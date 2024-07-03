@@ -1,5 +1,5 @@
 #body{ 
-    background-color:#EEE;
+    background-color:#eeee
     font-family: helvetica, Arial, sans-serif;
 }
 
@@ -12,7 +12,7 @@ h1,h2,h3{
     margin:0; 
 }
 #container{
-    background-color: white;
+    background-color: #ffffff;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
